@@ -10,7 +10,8 @@ Ebean是我在公司项目里看到的。第一次看到这个东西的适合，
 
 
 以下为英文版翻译。
-<hr><br><hr>
+<hr><hr>
+
 ## Why I want to use Ebean ?
 I found this framework in my company's code.
 The first time I saw this, I was so confused, totally don't know what is this strange code.(Just not like human language lol)
