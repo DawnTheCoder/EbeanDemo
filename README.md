@@ -13,9 +13,9 @@ Ebean是我在公司项目里看到的。第一次看到这个东西的适合，
 <hr><hr>
 
 ## Why I want to use Ebean ?
-I found this framework in my company's code.
-The first time I saw this, I was so confused, totally don't know what is this strange code.(Just not like human language lol)
-But when I have to do something with this Ebean, and after some studying, I found this is incredibly easy to do !
-Especially the code alternate SQL, very easy to write some code.
-Comparing with Hibernate which has a lot of config file and will be a hard time learnning this, it is smart!
-So I recommand this.
+I found this framework in my company's code.<br>
+The first time I saw this, I was so confused, totally don't know what is this strange code.(Just not like human language lol)<br>
+But when I have to do something with this Ebean, and after some studying, I found this is incredibly easy to do !<br>
+Especially the code alternate SQL, very easy to write some code.<br>
+Comparing with Hibernate which has a lot of config file and will be a hard time learnning this, it is smart!<br>
+So I recommend this Ebean.
